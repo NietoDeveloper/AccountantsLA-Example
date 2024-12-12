@@ -194,7 +194,7 @@ video {
 }
 
 .buttons-welcome .btn-services {
-    background-color: transparent;
+    background-color: rgb(	92, 70, 43);
     backdrop-filter: blur(5px);
     border: 2px solid rgb(201, 171, 0);
     cursor: pointer;
