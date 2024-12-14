@@ -93,6 +93,9 @@
     border-radius: .5rem;
     transition: all .2s ease;
 }
+.menu div .top .top-sec .middle:hover {
+    background-color:  rgb(186, 12, 47);
+}
 
 .top{
     transform: translateY(.5rem);
