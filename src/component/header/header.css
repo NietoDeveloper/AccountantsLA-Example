@@ -186,7 +186,7 @@ video {
 }
 
 .botones {
-    margin-top: 130px;
+    margin-top: 120px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -212,7 +212,6 @@ video {
 .buttons-welcome .btn-services h3 {
     color: rgb(201, 171, 0);
     text-align: center;
-    padding: 10px 10px;
     font-size: 24px;
 }
 .buttons-welcome .btn-services h3:hover {
