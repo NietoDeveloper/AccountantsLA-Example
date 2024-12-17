@@ -186,7 +186,7 @@ video {
 }
 
 .botones {
-    margin-top: 140px;
+    margin-top: 230px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -194,7 +194,7 @@ video {
 }
 
 .buttons-welcome .btn-services {
-    background-color: rgb(	92, 70, 43);
+    background-color: transparent;
     backdrop-filter: blur(5px);
     border: 2px solid rgb(201, 171, 0);
     cursor: pointer;
