@@ -55,8 +55,8 @@ function Header() {
 
                 <section className='buttons-welcome'>
 
-                    <h1>Manuel</h1>
-                    <h3>Professional Taxes Management</h3>
+                    <h1>Mauricio Nieto</h1>
+                    <h3>Professional Management Taxes</h3>
 
                     <div className='botones'>
 
