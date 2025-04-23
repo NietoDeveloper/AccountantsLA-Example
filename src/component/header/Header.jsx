@@ -55,7 +55,7 @@ function Header() {
 
                 <section className='buttons-welcome'>
 
-                    <h1>California Valley</h1>
+                    <h1>Mauricio Nieto</h1>
                     <h3>Professional Management Taxes</h3>
 
                     <div className='botones'>
