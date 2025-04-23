@@ -31,7 +31,7 @@ function Header() {
                         </ul>
                     </div>
                     <div className="contact">
-                        <button type='button'>Contact Now</button>
+                        <button type='button'>Contact Mauricio</button>
                     </div>
                     <div className="menu" aria-label='Menu' onClick={() => (setLines(!lines))}>
                         {
