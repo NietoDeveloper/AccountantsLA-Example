@@ -1,6 +1,6 @@
 # Front Home Example
 
-Overview
+## Overview
 This application showcases a foundational React front-end component for the homepage of a web project, built using Node.js, React.js, and Vite.
 Tech Stack
 
