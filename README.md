@@ -46,5 +46,4 @@ Commit changes: git commit -m "Add feature".
 Push to the branch: git push origin feature-name.
 Submit a pull request.
 
-License
-MIT License
+## MIT License
