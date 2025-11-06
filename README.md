@@ -9,7 +9,7 @@ Node.js: JavaScript runtime for backend.
 React.js: Front-end library for building UI components.
 Vite: Fast build tool and development server.
 
-Installation
+## Installation
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/AccountantsLA-Example>
 
