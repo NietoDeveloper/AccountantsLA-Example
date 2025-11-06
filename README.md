@@ -47,3 +47,5 @@ Push to the branch: git push origin feature-name.
 Submit a pull request.
 
 ## MIT License
+
+## Manuel Nieto
