@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application showcases a foundational React front-end component for 
+ application showcases a foundational React front-end component for 
 
 
 
