@@ -20,6 +20,3 @@ Contribut
 
 Fork the repository.
 Create a feature branch: git checkout -b feature-name.
-Commit changes: git commit -m "Add feature".
-Push  pull request.
-## Manuel Nieto
