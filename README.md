@@ -9,10 +9,6 @@ Node.js: JavaScript runtime for backend.
 React.js: Front-end library for building UI components.
 Vite: Fast build tool and development server.
 
-
-Start the development server:npm run dev
-
-
 Open your browser and visit http://localhost:5173 to view the homepage component.
 
 Project Structure
