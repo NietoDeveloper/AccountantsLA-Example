@@ -98,7 +98,7 @@ Open your browser and visit `http://localhost:5173` to view the homepage compone
 <div align="center">
 
 | Layer | Technologies |
-|:------|:-------------|
+| :------ | :------------- |
 | 🏃 **Runtime** | Node.js |
 | 🎨 **Frontend** | React.js |
 | ⚡ **Build Tooling** | Vite |
@@ -122,7 +122,7 @@ Open your browser and visit `http://localhost:5173` to view the homepage compone
 <div align="center">
 
 | Resource | Link |
-|:---------|:-----|
+| :--------- | :----- |
 | 🌐 **Live Demo** | [mauricioexample.netlify.app](https://mauricioexample.netlify.app/) |
 | 📂 **GitHub Repository** | [github.com/NietoDeveloper/AccountantsLA-Example](https://github.com/NietoDeveloper/AccountantsLA-Example) |
 | 👤 **Developer Profile** | [github.com/NietoDeveloper](https://github.com/NietoDeveloper) |
