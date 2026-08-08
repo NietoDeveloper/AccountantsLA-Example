@@ -13,9 +13,7 @@ components/: Reusable React components, including the homepage.
 App.jsx: Main app entry point.
 
 
-public/: Sta
-
-
+p
 
 
 
