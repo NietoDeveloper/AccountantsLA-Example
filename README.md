@@ -19,4 +19,3 @@ index.html: Entry HTML file for Vite.
 Contribut
 
 Fork the repository.
-Create a feature branch: git checkout -b feature-name.
