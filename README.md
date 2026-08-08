@@ -8,9 +8,6 @@ Tech Stack
 Node.js: JavaScript runtime for backend.
 roject Structure
 
-src/: Contains React components and assets.
-components/: Reusable React components, including the homepage.
-App.jsx: Main ap
 
 
 
