@@ -1,9 +1,5 @@
 # Front Home Example
 
-## Overview
-
- application showcases a foundational React front-end compo
-
 
 
 
