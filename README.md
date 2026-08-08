@@ -5,8 +5,7 @@
 This application showcases a foundational React front-end component for the homepage of a web project, built using Node.js, React.js, and Vite.
 Tech Stack
 
-Node.js: JavaScript runtime for backend.
-roject Structure
+ct Structure
 
 
 
