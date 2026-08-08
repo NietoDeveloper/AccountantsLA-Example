@@ -18,4 +18,4 @@ index.html: Entry HTML file for Vite.
 
 Cont
 
-Fork the repository
+Fork the reposi
