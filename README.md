@@ -6,12 +6,7 @@ This application showcases a foundational React front-end component for the home
 Tech Stack
 
 Node.js: JavaScript runtime for backend.
-React.js: Front-end library for building UI components.
-Vite: Fast build tool and development server.
-
-Open your browser and visit http://localhost:5173 to view the homepage component.
-
-Project Structure
+roject Structure
 
 src/: Contains React components and assets.
 components/: Reusable React components, including the homepage.
