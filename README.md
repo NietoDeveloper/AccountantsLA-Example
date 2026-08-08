@@ -17,9 +17,6 @@ Clone the repository:git clone <https://github.com/NietoDeveloper/AccountantsLA-
 Navigate to the project directory:cd <AccountantsLA-Example>
 
 
-Install 
-
-
 
 Usage
 
