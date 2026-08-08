@@ -14,7 +14,7 @@ App.jsx: Main app entry point.
 
 
 public/: Static as
-index.html: Entry HTML file fo
+index.html: Entry HTML
 
 
 
