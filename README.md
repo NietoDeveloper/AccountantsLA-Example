@@ -3,9 +3,6 @@
 
 
 
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ACCOUNTANTS%20LA%20%E2%80%94%20EXAMPLE&fontSize=48&fontColor=FFD700&fontAlignY=42&desc=🏠%20React%20Homepage%20Component%20%C2%B7%20Vite%20%C2%B7%20Client%20Showcase&descAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
