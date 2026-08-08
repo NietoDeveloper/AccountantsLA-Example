@@ -10,11 +10,7 @@ roject Structure
 
 src/: Contains React components and assets.
 components/: Reusable React components, including the homepage.
-App.jsx: Main app entry point.
-
-
-
-
+App.jsx: Main ap
 
 
 
