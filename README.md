@@ -14,12 +14,6 @@ Vite: Fast build tool and development server.
 Clone the repository:git clone <https://github.com/NietoDeveloper/AccountantsLA-Example>
 
 
-Navigate to the project directory:cd <AccountantsLA-Example>
-
-
-
-Usage
-
 Start the development server:npm run dev
 
 
