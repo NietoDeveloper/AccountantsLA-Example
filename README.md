@@ -24,6 +24,5 @@ Commit changes: git commit -m "Add feature".
 Push  pull request.
 ## Manuel Nieto
 
-## NietoDeveloper
 
 ### 2024
