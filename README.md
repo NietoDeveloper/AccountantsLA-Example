@@ -15,7 +15,3 @@ App.jsx: Main app entry point.
 
 public/: Static assets.
 index.html: Entry HTML file for Vite.
-
-Cont
-
-Fork th
